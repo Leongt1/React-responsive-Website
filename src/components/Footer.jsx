@@ -13,7 +13,7 @@ const Footer = () => {
         <div>
           <a href="https://www.youtube.com" target={'blank'} rel='noreferrer'>Youtube</a>
           <a href="https://www.instagram.com" target={'blank'} rel='noreferrer'>Instragram</a>
-          <a href="https://www.github.com" target={'blank'}rel='noreferrer'>Instragram</a>
+          <a href="https://www.github.com" target={'blank'}rel='noreferrer'>GitHub</a>
         </div>
       </div>
     </footer>
